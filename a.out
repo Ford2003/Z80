@@ -1,0 +1,18 @@
+Sections:
+section seg0 (attr=<acrwx> align=1):
+       0: space(0,fill=00)
+       0: symbol: start EXPR(0=0x0) UNUSED ABS 
+       0: data(3): 01 00 00 rabs(1,0-15,0xffff,0x0,FFFFh IMP REF ) 
+       3: symbol: loop EXPR(3=0x3) UNUSED ABS 
+       3: data(1): 0b 
+       4: data(1): 78 
+       5: data(1): b1 
+       6: data(2): 18 f8 rpc(1,0-7,0xffff,0xffff,NZ IMP REF ) 
+Symbols:
+NZ IMP REF 
+loop EXPR(3=0x3) UNUSED ABS 
+FFFFh IMP REF 
+start EXPR(0=0x0) UNUSED ABS 
+__RPTCNT EXPR(-1=0xffff) INTERNAL 
+__VASM EXPR(0=0x0) INTERNAL 
+__UNIXFS EXPR(0=0x0) INTERNAL 

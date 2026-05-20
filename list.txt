@@ -1,0 +1,4 @@
+0001   0FA0                     .ORG 4000
+0002   0FA0 3E 05       START   LD A,5  ; Load 5 into A register
+0003   0FA2 FF FF       MEM     .fill 2
+0004   0FA4             .END    

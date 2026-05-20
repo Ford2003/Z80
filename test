@@ -1,0 +1,11 @@
+Sections:
+section seg0 (attr=<acrwx> align=1):
+       0: space(0,fill=00)
+       0: symbol: start EXPR(0=0x0) UNUSED ABS 
+       0: data(2): 3e ab 
+       2: data(3): 32 f5 1f 
+Symbols:
+start EXPR(0=0x0) UNUSED ABS 
+__RPTCNT EXPR(-1=0xffff) INTERNAL 
+__VASM EXPR(0=0x0) INTERNAL 
+__UNIXFS EXPR(0=0x0) INTERNAL 
