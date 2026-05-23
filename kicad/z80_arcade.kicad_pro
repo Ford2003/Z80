@@ -416,7 +416,7 @@
         "uuid": "618602e4-bb1b-40d2-86c5-762f12b921eb"
       }
     ],
-    "used_designators": "U4-14,#PWR1-5,#PWR12-14,R4-15,J1-2,C1",
+    "used_designators": "U9,U12-17,#PWR6-9",
     "variants": []
   },
   "sheets": [
@@ -439,6 +439,10 @@
     [
       "7cd9921b-3f26-469d-a27d-4f4c251daf23",
       "RGB"
+    ],
+    [
+      "47bf0a3c-9f93-46c2-9934-2de0d76be269",
+      "VRAM_ADDR_MUX"
     ]
   ],
   "text_variables": {},
